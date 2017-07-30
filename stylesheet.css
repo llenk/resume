@@ -1,0 +1,54 @@
+body {
+	font-family:  serif;
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	color: #0d272d;
+	background: rgba(224, 232, 229, .3);
+
+	text-align: left;
+}
+
+h1 {
+	margin-left: 25%;
+	font-size: 48px;
+
+	border-bottom: 2px solid #0d272d;
+}
+
+#info {
+	float: left;
+	width: 20%;
+	background: rgba(187, 219, 147, .3);
+	border-radius: 15px;
+}
+
+h3{
+	padding: 5px 15px 5px 15px;
+	font-size: 18px;
+}
+
+#resume {
+	float: right;
+	right: 60%;
+	width: 75%;
+	background: rgba(90, 150, 150, .3);
+	border-radius: 15px;
+}
+
+#section {
+	padding: 15px 25px 15px 25px;
+	
+}
+
+
+
+#place-info {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#job-title {
+	font-weight: bold;
+}
